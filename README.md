@@ -16,7 +16,7 @@
 
 <div align="center">
 <img align="right" height="150" src="https://i.imgflip.com/9io8kc.gif"  />
-<img width="75%" src="https://raw.githubusercontent.com/hoholms/hoholms/output/snake.svg" alt="Snake animation" />
+<img width="75%" src="https://raw.githubusercontent.com/bysinka-95/bysinka-95/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
